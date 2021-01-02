@@ -1,2 +1,2 @@
 # MESA_UEMG
- Apresentração para a mesa 'Trocando em Miúdos', 24-09-2020
+ Apresentação para a mesa ['Trocando em Miúdos'](https://youtu.be/NXuFrYz24IU), 24-09-2020
